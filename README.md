@@ -1,17 +1,3 @@
-# test
-
-
-
-
-soft wrap
-
-
-
-no wrap
-
-indent 
-
-jkjkjlj
 kjhkhjhkd fg dkg dfjkg fkdg fkg fg kgkfdg fkg dfgk fgfdkg dfgk fgk fdg kgfkgfk gfkg fkg fkg fgkf gkfg fkg fgk fgk fgkfgdfkgfdgk fdgkfg kfg kfg fgk fgd
 
 
@@ -23,4 +9,18 @@ kjhkhjhkd fg dkg dfjkg fkdg fkg fg kgkfdg fkg dfgk fgfdkg dfgk fgk fdg kgfkgfk g
 	1.2 next 2
 	
 	
-		dfsfdfdf
+       dfsfdfdfgfdgf fdgdfgdfg
+       
+       dfgfgff
+     
+       dfgfgdfgfdgd
+       
+       dgfgdfg
+       
+       
+2. sdfgsfsdfdf
+
+dfsdfdsfdfd
+
+sdfdf
+
